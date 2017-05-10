@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356644208119",
+    "firebase_url": "https://fc-gagra-messanger.firebaseio.com",
+    "project_id": "fc-gagra-messanger",
+    "storage_bucket": "fc-gagra-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356644208119:android:081871776a821067",
+        "android_client_info": {
+          "package_name": "ge.bondx.fcgagramessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356644208119-43jqs5kk6cq1jp1d57b9adu6iu00kqnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.bondx.fcgagramessanger",
+            "certificate_hash": "00d7936248592ab91bdbde7a126daa4b3518e0a3"
+          }
+        },
+        {
+          "client_id": "356644208119-s0b3qgutk2hseojkjhfj2p77kr1np1si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD7d-1iwjG_ovysajao60nM-leZIRyKxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356644208119-s0b3qgutk2hseojkjhfj2p77kr1np1si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
